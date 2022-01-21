@@ -1,0 +1,9 @@
+venv
+
+.pytest_cache
+
+.idea
+
+example/.pytest_cache
+example/__pycache__/
+example/models.pyc
