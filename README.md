@@ -1,5 +1,17 @@
 # pytest
-##Usage
+## Quick Start
+```
+# install all packages
+pip install -r requirements.txt
+
+# go to example directory
+cd example
+
+# run tests
+pytest test_functions.py    
+```
+
+## Usage
 #### Run all the tests in a file
 ```
 pytest <test_file.py>
