@@ -10,6 +10,7 @@ charset-normalizer==2.0.10
 click==7.1.2
 configparser==4.0.2
 contextlib2==0.6.0.post1
+coverage==6.3
 cryptography==36.0.1
 Flask==1.1.4
 Flask-SQLAlchemy==2.5.1
@@ -31,6 +32,7 @@ py==1.11.0
 pycparser==2.21
 pyparsing==2.4.7
 pytest==4.6.11
+pytest-cov==3.0.0
 pytest-mock==2.0.0
 python-dateutil==2.8.2
 pytz==2021.3
@@ -41,6 +43,7 @@ s3transfer==0.5.0
 scandir==1.10.0
 six==1.16.0
 SQLAlchemy==1.4.31
+tomli==2.0.0
 urllib3==1.26.8
 wcwidth==0.2.5
 Werkzeug==1.0.1

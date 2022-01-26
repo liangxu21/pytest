@@ -29,3 +29,12 @@ eg:
 ```
 pytest test_functions.py -k test_post_request
 ```
+
+#### Run tests with coverage
+```
+pytest --cov=<your project> <your project>/
+```
+eg:
+```
+pytest --cov=example example/
+```
